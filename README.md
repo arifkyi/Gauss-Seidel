@@ -14,6 +14,10 @@ However The prince of Mathematician, Gauss'  and Siede invented new way to solve
 - Perl version 5.10 above
 
 <b> How To </b>
+Decided which equations,  any variables will do as long as the total of Variables will entail the same total of the equations
+example, for the "x"  and "y"  variables that means we need two equations.
+
+below are the example of four variables with four equations.
 
 1. create input file from the equations:
      
