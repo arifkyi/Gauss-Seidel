@@ -7,7 +7,11 @@ Prerequisite: full understanding of Liebeman method and Gauss-Seidel
 
 In abbreviated explanation, Liebeman created the method in linear equation to solve the matrix of multidimention
 factor.
-However The prince of Mathematicion and Seidel developed new way to solve the linear question that shorter and easier war 
+However The prince of Mathematician, Gauss'  and Siede invented new way to solve the linear question that shorter and easier war 
+
+<b> Prerequisite </b>
+- Any OS that able to running perl, for windows can gain it by installing the Strawberry perl
+- Perl version 5.10 above
 
 <b> How To </b>
 
