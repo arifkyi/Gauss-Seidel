@@ -14,8 +14,10 @@ However The prince of Mathematician, Gauss'  and Siede invented new way to solve
 - Perl version 5.10 above
 
 <b> How : </b>
-Decided which equations,  any variables will do as long as the total of Variables will entail the same total of the equations
+1.Decide which equations,  any variables will do as long as the total of Variables will entail the same total of the equations
 example, for the "x"  and "y"  variables that means we need two equations.
+
+2.Decide how many iterations , by chang this variable inside the script '$totaliterasi = 4' default is '4'.
 
 below are the example of four variables with four equations.
 
@@ -39,15 +41,18 @@ save it as any name you like, example <b>myinput.txt</b>
 
 just run the script <b> "perl PrinceOfMathv5.pl myinput.txt" </b>
 
-<b> Output </b>
+<b> Output : </b>
+
 example, of the output.
 the value of the variable as result from iterations  (variables 1,2,3,4,....n  respectively)
-
+'
  the value of the 1st variable 1.000
 
 the value of the 2nd variable 2.000
 
 the value of the 3rd variable -1.000
 
-the value of the 4th variable 1.000
+the value of the 4th variable 1.000 '
+
+in this case the 'x'  will equal to "1", 'y' equal to "2", 'z' equal to "-1" and v equal to "1"
 
