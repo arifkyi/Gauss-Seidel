@@ -9,11 +9,11 @@ In abbreviated explanation, Liebeman created the method in linear equation to so
 factor.
 However The prince of Mathematician, Gauss'  and Siede invented new way to solve the linear question that shorter and easier war 
 
-<b> Prerequisite </b>
+<b> Prerequisite :</b>
 - Any OS that able to running perl, for windows can gain it by installing the Strawberry perl
 - Perl version 5.10 above
 
-<b> How To </b>
+<b> How : </b>
 Decided which equations,  any variables will do as long as the total of Variables will entail the same total of the equations
 example, for the "x"  and "y"  variables that means we need two equations.
 
