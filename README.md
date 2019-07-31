@@ -29,4 +29,4 @@ save it as any name you like, example <b>myinput.txt</b>
 
 <b> Run </b>
 
-<b> "perl PrinceOfMathv5.pl myinput.txt" </b>
+just run the script <b> "perl PrinceOfMathv5.pl myinput.txt" </b>
