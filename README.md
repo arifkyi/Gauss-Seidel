@@ -38,8 +38,12 @@ just run the script <b> "perl PrinceOfMathv5.pl myinput.txt" </b>
 <b> Output </b>
 example, of the output.
 the value of the variable as result from iterations  (variables 1,2,3,4,....n  respectively)
+
  the value of the 1st variable 1.000
- the value of the 2nd variable 2.000
- the value of the 3rd variable -1.000
- the value of the 4th variable 1.000
+
+the value of the 2nd variable 2.000
+
+the value of the 3rd variable -1.000
+
+the value of the 4th variable 1.000
 
