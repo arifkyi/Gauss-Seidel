@@ -11,8 +11,8 @@ However The prince of Mathematicion and Seidel developed new way to solve the li
 
 <b> How To </b>
 
-1. create input file from the equations,
-
+1. create input file from the equations:
+     
      10x-1y+2z+0v=6;
      -1x+11y-1z+3v=25;
      2x-1y+10z-1v=-11;
@@ -30,3 +30,5 @@ save it as any name you like, example <b>myinput.txt</b>
 <b> Run </b>
 
 just run the script <b> "perl PrinceOfMathv5.pl myinput.txt" </b>
+
+<b> Output </b>
