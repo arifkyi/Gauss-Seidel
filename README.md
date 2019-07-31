@@ -23,13 +23,13 @@ However The prince of Mathematicion and Seidel developed new way to solve the li
 
 in file format would be like this:
 
-10,-1,2,0=6;0;
+    10,-1,2,0=6;0;
 
--1,11,-1,3=25;0;
+    -1,11,-1,3=25;0;
 
-2,-1,10,-1=-11;0;
+   2,-1,10,-1=-11;0;
 
-0,3,-1,8=15;0;
+     0,3,-1,8=15;0;
 
 save it as any name you like, example <b>myinput.txt</b>
 
