@@ -12,6 +12,7 @@ However The prince of Mathematicion and Seidel developed new way to solve the li
 <b> How To </b>
 
 1. create input file from the equations,
+
      10x-1y+2z+0v=6  
    -1x+11y-1z+3v=25 
    2x-1y+10z-1v=-11
