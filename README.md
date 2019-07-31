@@ -16,8 +16,10 @@ However The prince of Mathematicion and Seidel developed new way to solve the li
      10x-1y+2z+0v=6  
    
    -1x+11y-1z+3v=25 
+    
     2x-1y+10z-1v=-11
-     0x+3y-1z+8v=15  
+    
+    0x+3y-1z+8v=15  
 
 in file format would be like this:
 
