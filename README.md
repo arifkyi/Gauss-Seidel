@@ -21,6 +21,8 @@ example, for the "x"  and "y"  variables that means we need two equations.
 
 2.Decide how many iterations , by change this variable inside the script '$totaliterasi = 4' default is '4'.
 
+3.Decide hoa many precisions of the decimal by change this "%.3f" (Default 3 before zero), if four 'zero's' 
+
 below are the example of four variables with four equations.
 
 1. create input file from the equations:
