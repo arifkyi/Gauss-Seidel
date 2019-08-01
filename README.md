@@ -14,7 +14,8 @@ However The prince of Mathematician, Gauss'  and Seidel invented new way to solv
 - Perl version 5.10 above
 
 <b> How : </b>
-1.Decide which equations,  any variables will do as long as the total of Variables will entail the same total of the equations
+
+1.Decide which equations that need to be solved,  any variables will do as long as the total of Variables will entail the same total of the equations
 example, for the "x"  and "y"  variables that means we need two equations.
 
 2.Decide how many iterations , by chang this variable inside the script '$totaliterasi = 4' default is '4'.
