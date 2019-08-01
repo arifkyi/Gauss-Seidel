@@ -1,5 +1,6 @@
 # Gauss-Seidel
 Perl script to run and solve the linear equation with multidimentional Matrix by running the Perl Script.
+I know that ussually MathLab has the solution 
 
 Prerequisite: full understanding of Liebeman method and Gauss-Seidel
 
@@ -18,7 +19,7 @@ However The prince of Mathematician, Gauss'  and Seidel invented new way to solv
 1.Decide which equations that need to be solved,  any variables will do as long as the total of Variables will entail the same total of the equations
 example, for the "x"  and "y"  variables that means we need two equations.
 
-2.Decide how many iterations , by chang this variable inside the script '$totaliterasi = 4' default is '4'.
+2.Decide how many iterations , by change this variable inside the script '$totaliterasi = 4' default is '4'.
 
 below are the example of four variables with four equations.
 
